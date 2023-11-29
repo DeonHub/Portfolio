@@ -350,11 +350,15 @@ h6 {
 
 @media (max-width: 992px) {
   #hero {
+
     text-align: center;
+    margin-bottom: -32%;
+    padding-bottom: -30%;
   }
 
   #hero h1 {
-    font-size: 32px;
+    margin-top: -70%;
+    font-size: 40px;
     line-height: 36px;
   }
 
