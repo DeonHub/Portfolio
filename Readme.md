@@ -8,8 +8,8 @@ I'm a passionate Fullstack Developer | Mobile App Developer | Graphic Designer |
 
 ## Skills
 
-- **Programming Languages:** List programming languages you're proficient in.
-- **Technologies & Tools:** Mention tools, frameworks, or technologies you're experienced with.
+- **Programming Languages:** Python, Javascript, Dart.
+- **Technologies & Tools:** ReactJS, NodeJS, Flutter.
 
 ## Achievements
 
@@ -17,10 +17,9 @@ I'm a passionate Fullstack Developer | Mobile App Developer | Graphic Designer |
 
 ## Contact Me
 
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Portfolio:** [Link to Your Portfolio Website]
-- **Email:** [Your Email Address]
-- **Twitter:** [Your Twitter Profile Link]
+- **LinkedIn:** [[Your LinkedIn Profile Link]](https://www.linkedin.com/in/gideon-impraim-05ba0820b/)
+- **Portfolio:** [[Your Portfolio Link]](https://www.deonhub.netlify.app/)
+- **Email:** impraimgideon89@gmail.com
 
 ## Stats
 
